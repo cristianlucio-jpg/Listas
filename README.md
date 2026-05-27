@@ -82,6 +82,6 @@ public static void main(String[] args) {
 Salida esperada:
 
 Código
-23
-8
-11
+  23
+  8
+  11
